@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Stuff about stuff
+1. *Learn Stuff*
+2. _Lead Stuff_
+3. *Make Stuff*
+4. _Try Stuff_
+
+_Be **Awesome** Always_
