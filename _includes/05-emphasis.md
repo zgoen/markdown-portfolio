@@ -4,4 +4,4 @@
 3. *Make Stuff*
 4. _Try Stuff_
 
-_Be **Awesome** Always_
+:sparkles:_Be **Awesome** Always_:sparkles:
